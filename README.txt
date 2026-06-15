@@ -1,5 +1,7 @@
 ﻿# snakes don't eat apples
 
+![Cкриншот игры](snake_screenshot.png)
+
 
 Моя первая игра на Pygame
 
