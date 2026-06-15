@@ -1,6 +1,6 @@
 ﻿# snakes don't eat apples
 
-<img src="snake_screenshot.png" alt="Скриншот игры" width="400">
+<img src="screenshot.png" alt="Скриншот игры" width="400">
 
 Моя первая игра на Pygame
 
